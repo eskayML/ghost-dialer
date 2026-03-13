@@ -26,7 +26,7 @@ You plug in your own Twilio API keys, upload a CSV of leads, and drop thousands 
 - **Bring Your Own Key (BYOK):** No middleman markups. Pay Twilio directly (fractions of a cent per call).
 - **Bulk CSV Upload:** Easily import massive lead lists from your CRM or scrapers.
 - **Answering Machine Detection (AMD):** Smart Twilio integration ensures voicemails are only dropped when it hits an inbox, not a live human.
-- **ShipFast Brutalist UI:** Built for speed and conversion with a modern, high-contrast, Marc Lou-inspired dashboard.
+- **High-Conversion UI:** Built for speed and conversion with a modern, high-contrast, modern dashboard.
 - **Edge-Ready Webhooks:** Handles async Twilio callback state.
 
 ---

@@ -52,7 +52,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-[#0B0F19] text-slate-200 font-sans selection:bg-yellow-400 selection:text-black">
       
-      {/* ShipFast-style Minimal Nav */}
+      {/* Minimal Nav */}
       <nav className="max-w-6xl mx-auto px-6 py-6 flex justify-between items-center">
         <div className="flex items-center gap-2 text-white font-extrabold text-2xl tracking-tight">
           <div className="bg-yellow-400 p-1.5 rounded-lg text-black">
@@ -73,7 +73,7 @@ export default function Home() {
         </div>
       </nav>
 
-      {/* Hero Section - Marc Lou Brutalist/Clean Style */}
+      {/* Hero Section  */}
       <main className="max-w-6xl mx-auto px-6 pt-16 pb-24 text-center">
         <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-yellow-400/10 border border-yellow-400/20 text-yellow-400 text-sm font-semibold mb-8">
           <Zap size={16} className="fill-current" />
@@ -100,7 +100,7 @@ export default function Home() {
             <ArrowRight size={20} className="group-hover:translate-x-1 transition-transform" />
           </button>
           
-          {/* ShipFast Social Proof */}
+          {/* Social Proof */}
           <div className="flex flex-col items-center gap-2">
             <div className="flex -space-x-3">
               {[1, 2, 3, 4, 5].map((i) => (
